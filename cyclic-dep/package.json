@@ -18,7 +18,7 @@
     "sgr-composer": "^0.5.0",
     "term-ng": "^2.0.1",
     "truwrap": "^2.0.0",
-    "update-notifier": "^4.0.0",
+    "update-notifier": "^6.0.0",
     "verbosity": "^2.0.0",
     "yargs": "^15.3.0"
   },
