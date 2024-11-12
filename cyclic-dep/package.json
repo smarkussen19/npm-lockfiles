@@ -16,7 +16,7 @@
     "lodash": "^4.17.21",
     "read-pkg-up": "^4.0.0",
     "sgr-composer": "^0.5.0",
-    "term-ng": "^2.0.1",
+    "term-ng": "^3.0.4",
     "truwrap": "^2.0.0",
     "update-notifier": "^4.0.0",
     "verbosity": "^2.0.0",
